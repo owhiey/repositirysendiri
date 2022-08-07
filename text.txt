@@ -1,3 +1,4 @@
 File text.txt
 File ini dibuat untuk tujuan latihan dan eksperimen
 Teks tambahan ke-1
+Teks tambahan ke-2
