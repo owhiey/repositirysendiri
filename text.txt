@@ -1,1 +1,2 @@
 File text.txt
+File ini dibuat untuk tujuan latihan dan eksperimen
